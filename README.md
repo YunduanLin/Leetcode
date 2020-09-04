@@ -33,3 +33,7 @@
     - **0026 Remove Duplicates from Sorted Array**
         
         Only need to return the length. Pay attention to the empty list.
+
+    - **0027 Remove Element**
+        
+        Similar to P0026.

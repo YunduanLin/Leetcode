@@ -37,3 +37,7 @@
     - **0027 Remove Element**
         
         Similar to P0026.
+        
+    - **0028 Implement strStr**
+    
+        KMP algorithm. First calculate next function, then match 2 string. The structure of this 2 procedure are almost similar. That is, if current character matches, then compare next; otherwise, let j back to the "next position".

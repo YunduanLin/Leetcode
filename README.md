@@ -45,3 +45,7 @@
     - **0035 Search Insert Position**
     
         Binary Search!
+        
+    - **0038 Count and Say**
+    
+        Just translate the statement.

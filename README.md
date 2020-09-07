@@ -49,3 +49,7 @@
     - **0038 Count and Say**
     
         Just translate the statement.
+        
+    - **0053 Maximum Subarray**
+    
+        Use greedy algorithm to get $O(n)$. Pay attention to the case where all elements are negative. Divide and conquer can get $O(n\log n)$ but more subtle.

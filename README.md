@@ -53,3 +53,7 @@
     - **0053 Maximum Subarray**
     
         Use greedy algorithm to get $O(n)$. Pay attention to the case where all elements are negative. Divide and conquer can get $O(n\log n)$ but more subtle.
+        
+    - **0058 Length of Last Word**
+    
+        1. Ignore the space at the end of string. 2. Reverse the string and find the first space. Pay attention to string that consists of all spaces or only 1 word.

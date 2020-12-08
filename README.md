@@ -56,4 +56,9 @@
         
     - **0058 Length of Last Word**
     
-        1. Ignore the space at the end of string. 2. Reverse the string and find the first space. Pay attention to string that consists of all spaces or only 1 word.
+        1. Ignore the space at the end of string. 
+        2. Reverse the string and find the first space. Pay attention to string that consists of all spaces or only 1 word.
+    
+    - **0066 Plus One**
+    
+        High precision addition.

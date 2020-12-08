@@ -62,3 +62,7 @@
     - **0066 Plus One**
     
         High precision addition.
+        
+    - **0067 Add Binary**
+    
+        Also high precision addition.

@@ -70,3 +70,7 @@
     - **0069 Sqrt(x)**
     
         Use binary search to find the sqrt, 0/1 need to be considered seperately.
+        
+    - **0070 Climbing Stairs**
+    
+        Fibonacci series.

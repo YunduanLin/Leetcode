@@ -74,3 +74,7 @@
     - **0070 Climbing Stairs**
     
         Fibonacci series.
+        
+    - **0083 Remove Duplicates from Sorted List**
+        
+        Manage the list, need to pay attention to the empty node case.

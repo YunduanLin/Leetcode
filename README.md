@@ -78,3 +78,7 @@
     - **0083 Remove Duplicates from Sorted List**
         
         Manage the list, need to pay attention to the empty node case.
+        
+    - **0088 Merge Sorted Array**
+        
+        Need to pay attention to the copy of array, cannot use such code ```a = a[:-1]```.

@@ -106,3 +106,7 @@
     - **0110 Balanced Binary Tree**
         
         First find the depth of each node and the justify whether it is balanced.
+    
+    - **0111 Minimum Depth of Binary Tree**
+        
+        The recursion is not only the minimal depth of children + 1, if the nodes do not have 2 children, then the depth should be the longest path.

@@ -102,3 +102,7 @@
     - **0108 Convert Sorted Array to Binary Search Tree**
         
         Use binary split to generate BST.
+    
+    - **0110 Balanced Binary Tree**
+        
+        First find the depth of each node and the justify whether it is balanced.

@@ -90,3 +90,7 @@
     - **0101 Symmetric Tree**
         
         Recursion as Same Tree, but just in mirror.
+        
+    - **0104 Maximum Depth of Binary Tree**
+        
+        Recursion to find the depth.

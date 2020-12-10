@@ -86,3 +86,7 @@
     - **0100 Same Tree**
         
         Recursion.
+        
+    - **0101 Symmetric Tree**
+        
+        Recursion as Same Tree, but just in mirror.

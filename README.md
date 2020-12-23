@@ -114,3 +114,7 @@
     - **0112 Path Sum**
     
         The path should end at the nodes who do not have children nodes, aka leaf nodes. An empty tree does not have a value of 0.
+        
+    - **0118 Pascal's Triangle**
+    
+        Directly do the sum for adjacent elements.

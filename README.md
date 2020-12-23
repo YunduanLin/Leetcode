@@ -110,3 +110,7 @@
     - **0111 Minimum Depth of Binary Tree**
         
         The recursion is not only the minimal depth of children + 1, if the nodes do not have 2 children, then the depth should be the longest path.
+        
+    - **0112 Path Sum**
+    
+        The path should end at the nodes who do not have children nodes, aka leaf nodes. An empty tree does not have a value of 0.

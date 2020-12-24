@@ -118,3 +118,7 @@
     - **0118 Pascal's Triangle**
     
         Directly do the sum for adjacent elements.
+        
+    - **0119 Pascal's Triangle II**
+    
+        The same as 0118, pay attention to the function name.

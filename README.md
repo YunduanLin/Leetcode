@@ -122,3 +122,7 @@
     - **0119 Pascal's Triangle II**
     
         The same as 0118, pay attention to the function name.
+    
+    - **0121 Best Time to Buy and Sell Stock**
+    
+        Update max profit and min price every iteration.

@@ -126,3 +126,7 @@
     - **0121 Best Time to Buy and Sell Stock**
     
         Update max profit and min price every iteration.
+        
+    - **0122 Best Time to Buy and Sell Stock II**
+    
+        If the price for next period is larger than the current price, sell the stock and update min price. Remember to add the profit for the last transaction when the last price is the end of an increasing sequence.

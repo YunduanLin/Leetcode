@@ -134,3 +134,9 @@
     - **0125 Valid Palindrome**
     
         Check from the first and last. `~ s[i].isalnum()` does not return a boolean value, use not.
+        
+    - **0136 Single Number**
+        
+        Use `xor` operator which is `^`.
+    
+        Check from the first and last. `~ s[i].isalnum()` does not return a boolean value, use not.

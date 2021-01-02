@@ -130,3 +130,7 @@
     - **0122 Best Time to Buy and Sell Stock II**
     
         If the price for next period is larger than the current price, sell the stock and update min price. Remember to add the profit for the last transaction when the last price is the end of an increasing sequence.
+        
+    - **0125 Valid Palindrome**
+    
+        Check from the first and last. `~ s[i].isalnum()` does not return a boolean value, use not.

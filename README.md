@@ -139,4 +139,6 @@
         
         Use `xor` operator which is `^`.
     
-        Check from the first and last. `~ s[i].isalnum()` does not return a boolean value, use not.
+    - **0141 Linked List Cycle**
+        
+        set val to be None when the node is visited.

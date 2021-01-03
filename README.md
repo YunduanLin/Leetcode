@@ -141,4 +141,8 @@
     
     - **0141 Linked List Cycle**
         
-        set val to be None when the node is visited.
+        Set val to be None when the node is visited.
+        
+    - **0155 Min Stack**
+        
+        Need to keep a dynamic memory of the minimal element rather than just a number.

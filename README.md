@@ -146,3 +146,8 @@
     - **0155 Min Stack**
         
         Need to keep a dynamic memory of the minimal element rather than just a number.
+        
+    - **0160 Intersection of Two Linked Lists**
+        
+        1. `X+Z+Y` and `Y+Z+X` have the same length, so we can find the intersection starting at the same position at the second round after combining two list together.
+        2. We need to consider the no intersection case, so that we need switch to the next list when `head is None` rather than `head.next is None`.
